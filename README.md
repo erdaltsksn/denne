@@ -40,16 +40,18 @@ TODO: Provide support channels or resources
 If you want to contribute to this project and make it better, your help is very
 welcome.
 
-For more information, see [Contributing Guide](#contributing-ov-file).
+To get started, please review our [Contributing Guide](#contributing).
+
+Thank you for helping out and remember, no contribution is too small.
 
 ## 🔒 Security Policy
 
 If you discover a security vulnerability within this project, please follow our
-[Security Policy../../](#security-ov-file).
+[Security Policy](#security-ov-file).
 
 ## 📜 Code of Conduct
 
-This project adheres to the Contributor Covenant [Code of Conduct../](#coc-ov-file).
+This project adheres to the Contributor Covenant [Code of Conduct](#coc-ov-file).
 By participating, you are expected to uphold this code.
 
 ## ⚠️ Disclaimer
