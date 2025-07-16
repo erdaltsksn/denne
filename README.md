@@ -42,14 +42,20 @@ welcome.
 
 For more information, see [Contributing Guide](https://github.com/erdaltsksn/.github/blob/main/CONTRIBUTING.md).
 
+[Security Policy ./?tab](./?tab=security-ov-file).
+
+[Security Policy ?tab ](?tab=security-ov-file).
+
+[Security Policy tab](tab=security-ov-file).
+
 ## 🔒 Security Policy
 
 If you discover a security vulnerability within this project, please follow our
-[Security Policy](?tab=security-ov-file).
+[Security Policy../../](../../?tab=security-ov-file).
 
 ## 📜 Code of Conduct
 
-This project adheres to the Contributor Covenant [Code of Conduct](?tab=coc-ov-file).
+This project adheres to the Contributor Covenant [Code of Conduct../](../?tab=coc-ov-file).
 By participating, you are expected to uphold this code.
 
 ## ⚠️ Disclaimer
