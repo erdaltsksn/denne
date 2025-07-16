@@ -1,0 +1,34 @@
+// For format details, see https://aka.ms/devcontainer.json.
+{
+    "image": "mcr.microsoft.com/devcontainers/universal:3",
+    "features": {
+        // https://github.com/devcontainers/features
+    },
+    // Configure tool-specific properties.
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "redhat.vscode-yaml",
+                "DavidAnson.vscode-markdownlint",
+                "streetsidesoftware.code-spell-checker"
+            ],
+            "settings": {
+                // vscode
+                "files.associations": {
+                    "LICENSE*": "plaintext"
+                },
+                "files.insertFinalNewline": true,
+                "diffEditor.ignoreTrimWhitespace": false,
+                // redhat.vscode-yaml
+                "redhat.telemetry.enabled": false,
+                // DavidAnson.vscode-markdownlint
+                "markdownlint.config": {
+                    "MD010": {
+                        "code_blocks": false,
+                        "spaces_per_tab": 4
+                    }
+                }
+            }
+        }
+    }
+}
