@@ -45,11 +45,11 @@ For more information, see [Contributing Guide](https://github.com/erdaltsksn/.gi
 ## 🔒 Security Policy
 
 If you discover a security vulnerability within this project, please follow our
-[Security Policy](https://github.com/erdaltsksn/.github/blob/main/SECURITY.md).
+[Security Policy](?tab=security-ov-file).
 
 ## 📜 Code of Conduct
 
-This project adheres to the Contributor Covenant [Code of Conduct](https://github.com/erdaltsksn/.github/blob/main/CODE_OF_CONDUCT.md).
+This project adheres to the Contributor Covenant [Code of Conduct](?tab=coc-ov-file).
 By participating, you are expected to uphold this code.
 
 ## ⚠️ Disclaimer
