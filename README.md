@@ -51,7 +51,7 @@ For more information, see [Contributing Guide](https://github.com/erdaltsksn/.gi
 ## 🔒 Security Policy
 
 If you discover a security vulnerability within this project, please follow our
-[Security Policy../../](../../?tab=security-ov-file).
+[Security Policy../../](#security-ov-file).
 
 ## 📜 Code of Conduct
 
