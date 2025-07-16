@@ -40,13 +40,7 @@ TODO: Provide support channels or resources
 If you want to contribute to this project and make it better, your help is very
 welcome.
 
-For more information, see [Contributing Guide](https://github.com/erdaltsksn/.github/blob/main/CONTRIBUTING.md).
-
-[Security Policy ./?tab](./?tab=security-ov-file).
-
-[Security Policy ?tab ](?tab=security-ov-file).
-
-[Security Policy tab](tab=security-ov-file).
+For more information, see [Contributing Guide](#contributing-ov-file).
 
 ## 🔒 Security Policy
 
@@ -55,7 +49,7 @@ If you discover a security vulnerability within this project, please follow our
 
 ## 📜 Code of Conduct
 
-This project adheres to the Contributor Covenant [Code of Conduct../](../?tab=coc-ov-file).
+This project adheres to the Contributor Covenant [Code of Conduct../](#coc-ov-file).
 By participating, you are expected to uphold this code.
 
 ## ⚠️ Disclaimer
